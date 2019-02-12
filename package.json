@@ -1,0 +1,24 @@
+{
+  "name": "portal-noticias",
+  "version": "1.0.0",
+  "description": "Portal de Noticias",
+  "main": "noticiais.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonrodrigues92/portal-noticiais.git"
+  },
+  "keywords": [
+    "Portal",
+    "Noticias",
+    "NodeJS"
+  ],
+  "author": "Jefferson Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonrodrigues92/portal-noticiais/issues"
+  },
+  "homepage": "https://github.com/jeffersonrodrigues92/portal-noticiais#readme"
+}
